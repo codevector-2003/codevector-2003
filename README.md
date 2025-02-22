@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarenDaishika&label=Profile%20Views&color=0e75b6&style=flat" alt="HarenDaishika" /> </p>
 
+- 🎓 I’m currently studying in the **Department of Computer Science and Engineering** at the **University of Moratuwa**  
 - 🔭 I’m currently working on **[Project Name](project-link)**  
 - 👯 I’m looking to collaborate on **[Project Name](project-link)**  
 - 🤝 I’m looking for help with **[Project Name](project-link)**  
@@ -52,14 +53,5 @@
   <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://dev.to/your-devto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" height="30" width="40" /></a>
-  <a href="https://hashnode.com/@your-hashnode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="Hashnode" height="30" width="40" /></a>
-</p>
+  <a href="https://hashnode.com/@your-hashnode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="Hashnode"
 
----
-
-### 📢 Fun Fact:
-*I think I am funny 😆!*
-
----
-
-Now your profile includes **Java, JavaScript, Python, C, and C++**. Let me know if you need any more tweaks! 🚀  
