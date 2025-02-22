@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haren Daishika</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarenDaishika&label=Profile%20Views&color=0e75b6&style=flat" alt="HarenDaishika" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=HarenDaishika&label=Profile%20Views&color=0e75b6&style=flat" alt="HarenDaishika" /> </p>
 
 - 🎓 I’m currently studying in the **Department of Computer Science and Engineering** at the **University of Moratuwa**  
 - 🔭 I’m currently working on **[Project Name](project-link)**  
