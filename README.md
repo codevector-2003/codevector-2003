@@ -4,8 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=HarenDaishika&label=Profile%20Views&color=0e75b6&style=flat" alt="HarenDaishika" /> </p>
 
 - 🎓 I’m currently studying in the **Department of Computer Science and Engineering** at the **University of Moratuwa**  
-- 🔭 I’m currently working on **[Project Name](project-link)**  
-- 👯 I’m looking to collaborate on **[Project Name](project-link)**  
+- 🔭 I’m currently working on **Baby Smart LK**  
+- 👯 I’m looking to collaborate on **Nothing**  
 <!--- 🤝 I’m looking for help with **[Project Name](project-link)**  -->
 <!---- 🌱 I’m currently learning **Frameworks, Courses, etc.**   -->
 - 💬 Ask me about **React, Vue, GSAP**  
