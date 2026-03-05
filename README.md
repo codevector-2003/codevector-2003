@@ -74,17 +74,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=codevector-2003&show_icons=true&theme=tokyonight" />
-</p>
+>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codevector-2003&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevector-2003&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
