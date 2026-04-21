@@ -23,13 +23,10 @@
 ---
 
 
-## 🚀 Tech Stack
-
-<p align="center">
+<p align="center"><b>🚀 Tech Stack</b></p>
   <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,react,vue,nodejs,mongodb,git&perline=5" />
 </p>
-
-
+---
 
 ## 📊 GitHub Stats
 
