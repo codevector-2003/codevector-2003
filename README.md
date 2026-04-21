@@ -23,10 +23,9 @@
 ---
 
 ## 🚀 Tech Stack
-
+<p align='center'>
 <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,react,vue,nodejs,mongodb,git&perline=5" />
-
-</div>
+</p>
 
 ## 📊 GitHub Stats
 
