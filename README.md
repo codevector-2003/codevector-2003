@@ -15,8 +15,8 @@
 ## 👨‍💻 About Me
 
 * 🎓 CSE Undergraduate @ **University of Moratuwa**
-* 🔭 Currently working on **Baby Smart LK**
-* 💡 Passionate about **interactive web apps & animations**
+* 🔭 Currently working on **Intelligent Traffic Eco System**
+* 💡 Passionate about **interactive web apps & ML & DevOps**
 * 💬 Ask me about **React, Vue, Node.js, GSAP**
 * 📫 Reach me: **[harend.23@cse.mrt.ac.lk](mailto:harend.23@cse.mrt.ac.lk)**
 * ⚡ Fun fact: *I think I’m funny 😆*
